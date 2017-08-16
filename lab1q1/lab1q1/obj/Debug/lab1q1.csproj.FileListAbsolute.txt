@@ -1,0 +1,18 @@
+E:\Harshini\lab1q1\lab1q1\bin\Debug\lab1q1.exe.config
+E:\Harshini\lab1q1\lab1q1\bin\Debug\lab1q1.exe
+E:\Harshini\lab1q1\lab1q1\bin\Debug\lab1q1.pdb
+E:\Harshini\lab1q1\lab1q1\obj\Debug\lab1q1.csprojResolveAssemblyReference.cache
+E:\Harshini\lab1q1\lab1q1\obj\Debug\lab1q1.Form1.resources
+E:\Harshini\lab1q1\lab1q1\obj\Debug\lab1q1.Properties.Resources.resources
+E:\Harshini\lab1q1\lab1q1\obj\Debug\lab1q1.csproj.GenerateResource.Cache
+E:\Harshini\lab1q1\lab1q1\obj\Debug\lab1q1.exe
+E:\Harshini\lab1q1\lab1q1\obj\Debug\lab1q1.pdb
+D:\Btech\3rd year\5th sem\Database Systems\Lab\Harshini\lab1q1\lab1q1\bin\Debug\lab1q1.exe.config
+D:\Btech\3rd year\5th sem\Database Systems\Lab\Harshini\lab1q1\lab1q1\obj\Debug\lab1q1.exe
+D:\Btech\3rd year\5th sem\Database Systems\Lab\Harshini\lab1q1\lab1q1\obj\Debug\lab1q1.pdb
+D:\Btech\3rd year\5th sem\Database Systems\Lab\Harshini\lab1q1\lab1q1\bin\Debug\lab1q1.exe
+D:\Btech\3rd year\5th sem\Database Systems\Lab\Harshini\lab1q1\lab1q1\bin\Debug\lab1q1.pdb
+D:\Btech\3rd year\5th sem\Database Systems\Lab\Harshini\lab1q1\lab1q1\obj\Debug\lab1q1.csprojResolveAssemblyReference.cache
+D:\Btech\3rd year\5th sem\Database Systems\Lab\Harshini\lab1q1\lab1q1\obj\Debug\lab1q1.Form1.resources
+D:\Btech\3rd year\5th sem\Database Systems\Lab\Harshini\lab1q1\lab1q1\obj\Debug\lab1q1.Properties.Resources.resources
+D:\Btech\3rd year\5th sem\Database Systems\Lab\Harshini\lab1q1\lab1q1\obj\Debug\lab1q1.csproj.GenerateResource.Cache
