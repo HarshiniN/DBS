@@ -1,0 +1,10 @@
+E:\Harshini\lab2q1\lab2q1\bin\Debug\lab2q1.exe.config
+E:\Harshini\lab2q1\lab2q1\bin\Debug\lab2q1.exe
+E:\Harshini\lab2q1\lab2q1\bin\Debug\lab2q1.pdb
+E:\Harshini\lab2q1\lab2q1\obj\Debug\lab2q1.csprojResolveAssemblyReference.cache
+E:\Harshini\lab2q1\lab2q1\obj\Debug\lab2q1.Form1.resources
+E:\Harshini\lab2q1\lab2q1\obj\Debug\lab2q1.Properties.Resources.resources
+E:\Harshini\lab2q1\lab2q1\obj\Debug\lab2q1.csproj.GenerateResource.Cache
+E:\Harshini\lab2q1\lab2q1\obj\Debug\lab2q1.exe
+E:\Harshini\lab2q1\lab2q1\obj\Debug\lab2q1.pdb
+E:\Harshini\lab2q1\lab2q1\obj\Debug\lab2q1.saveFileDialog.resources
